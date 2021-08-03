@@ -1,0 +1,42 @@
+.body {
+  color: #ebdbb2;
+  font-family: "Source Code Pro", monospace;
+  font-size: calc(3px + 2vmin);
+}
+
+.contacts {
+  font-size: calc(1px + 2vmin) !important;
+}
+
+a {
+  color: #83a598 !important;
+}
+
+a:hover {
+  color: #458588 !important;
+}
+
+li {
+  margin-top: 12px;
+  text-align: justify !important;
+}
+
+p {
+  text-align: justify !important;
+}
+
+.comp {
+  color: #d79921;
+}
+
+.title {
+  color: #fb4934;
+}
+
+.important {
+  color: #b8bb26;
+}
+
+.spacer {
+  margin-top: 15px;
+}
